@@ -10,4 +10,4 @@ This repository has a file in R language named `scatter-BA-plots.R` that load th
 - Adriano de Oliveira Andrade (:star: advisor)
 
 ### Reference
-Giavarina D. (2015). Understanding Bland Altman analysis. Biochemia medica, 25(2), 141–151. `r_badge_doi("10.11613/BM.2015.015", "yellow")`
+Giavarina D. (2015). Understanding Bland Altman analysis. Biochemia medica, 25(2), 141–151. https://doi.org/10.11613/BM.2015.015
